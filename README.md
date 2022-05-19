@@ -1,5 +1,3 @@
-# database-mechine-learning
-# database-mechine-learning
-# database-mechine-learning
-# database-mechine-learning
-# database-mechine-learning
+# dataset-mechine-learning
+# kasur bank dan lestoran
+# analisi visual data
